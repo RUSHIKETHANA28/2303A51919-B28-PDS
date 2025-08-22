@@ -1,2 +1,4 @@
 # 2303A51919-B28-PDS
 #LAB2(https://github.com/RUSHIKETHANA28/2303A51919-B28-PDS/blob/main/LAB2.ipynb)
+#LAB3(https://github.com/RUSHIKETHANA28/2303A51919-B28-PDS/blob/main/Lab3.ipynb)
+
